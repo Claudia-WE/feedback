@@ -28,6 +28,7 @@ Describe what format and schema the source data uses. If possible, add a link to
 # Source Dataset(s)
 
 Describe the source data sets that are being transformed. Include links to public metadata and services, if available.
+Add statistics about the data set such as number of tables, associations and properties. (You can get this information by using hale>>connect. If you have questions on the please contact Claudia)
 
 # Source Data Size
 
